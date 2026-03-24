@@ -1,0 +1,243 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\ajax\libs\qrcodejs\1.0.0\qrcode.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\css2-13
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE3tF-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLBT5V1s-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLDz8V1s-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLFj_V1s-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111lEA-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21llEA-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xlEA-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hlEA-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19lEA-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1plEA-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15lEA-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiEyp8kv8JHgFVrFJA-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiGyp8kv8JHgFVrJJLedw-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\poppins\v24\pxiGyp8kv8JHgFVrLPTedw-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT-13.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT-13.ttf
+Content Type: font/ttf
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/bar.js
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\bar-12.js
+Content Type: application/javascript
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/back_blue.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\back_blue-6.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/documents.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\documents-13.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/documents_open.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\documents_open-13.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/eagle.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\eagle.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/flag.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\flag.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/help.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\help-6.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/identity.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\identity-13.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/identity_open.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\identity_open-13.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/logo_large.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\logo_large-13.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/other.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\other-13.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/other_open.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\other_open-13.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/services.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\services-13.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/services_open.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\services_open-13.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/main.css
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\main-13.css
+Content Type: text/css
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/manifest.js
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\manifest-13.js
+Content Type: application/javascript
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/show.css
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\show.css
+Content Type: text/css
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/show.js
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\show.js
+Content Type: application/javascript
+
+Uri: https://xobywatel-2-0.vercel.app/assets/cache.js
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\cache-13.js
+Content Type: application/javascript
+
+Uri: https://xobywatel-2-0.vercel.app/show.html
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\show.html
+Content Type: text/html
+
+watel-2-0.vercel.app\assets\app\images\services_open-10.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/tickets.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\tickets-1.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/vehicle.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\vehicle-1.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/images/vote.png
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\images\vote-1.png
+Content Type: image/png
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/main.css
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\main-10.css
+Content Type: text/css
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/manifest.js
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\manifest-10.js
+Content Type: application/javascript
+
+Uri: https://xobywatel-2-0.vercel.app/assets/app/services.css
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\app\services-1.css
+Content Type: text/css
+
+Uri: https://xobywatel-2-0.vercel.app/assets/cache.js
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\assets\cache-10.js
+Content Type: application/javascript
+
+Uri: https://xobywatel-2-0.vercel.app/services.html
+File Name: C:\Users\Bartek\Desktop\tes\xobywatel-2-0.vercel.app\services-1.html
+Content Type: text/html
+
